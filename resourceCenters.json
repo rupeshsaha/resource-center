@@ -7,7 +7,12 @@
     "lng": -74.0060,
     "category": "Education",
     "description": "A facility dedicated to providing free education, evening classes, and skill-building workshops for underprivileged children and adults.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "contact@hopeedu.org",
+      "phone": "+1 (123) 456-7890",
+      "website": "www.hopeedu.org"
+    }
   },
   {
     "id": 2,
@@ -17,7 +22,12 @@
     "lng": -118.2437,
     "category": "Food",
     "description": "A community-run initiative offering daily meals, monthly grocery distributions, and support for families facing food insecurity.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "info@communityfoodbank.org",
+      "phone": "+1 (234) 567-8901",
+      "website": "www.communityfoodbank.org"
+    }
   },
   {
     "id": 3,
@@ -27,7 +37,12 @@
     "lng": -122.4194,
     "category": "HealthCare",
     "description": "A free healthcare center providing medical checkups, vaccinations, and basic treatments for people without insurance or access to hospitals.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "contact@healinghandsclinic.org",
+      "phone": "+1 (345) 678-9012",
+      "website": "www.healinghandsclinic.org"
+    }
   },
   {
     "id": 4,
@@ -37,7 +52,12 @@
     "lng": -86.7816,
     "category": "Education",
     "description": "Empowering young individuals through mentorship programs, coding boot camps, and leadership development workshops.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "info@youthhub.org",
+      "phone": "+1 (456) 789-0123",
+      "website": "www.youthhub.org"
+    }
   },
   {
     "id": 5,
@@ -47,7 +67,12 @@
     "lng": -87.6298,
     "category": "Food",
     "description": "A volunteer-driven organization delivering nutritious meals and emergency food supplies to low-income families and senior citizens.",
-    "isActive": false
+    "isActive": false,
+    "contact": {
+      "email": "contact@urbanfood.org",
+      "phone": "+1 (567) 890-1234",
+      "website": "www.urbanfood.org"
+    }
   },
   {
     "id": 6,
@@ -57,7 +82,12 @@
     "lng": -104.9903,
     "category": "HealthCare",
     "description": "Offering wellness programs, mental health counseling, and lifestyle coaching to promote a healthier community.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "info@healthylivingcenter.org",
+      "phone": "+1 (678) 901-2345",
+      "website": "www.healthylivingcenter.org"
+    }
   },
   {
     "id": 7,
@@ -67,7 +97,12 @@
     "lng": -117.7538,
     "category": "Education",
     "description": "Providing after-school tutoring and test preparation services to help students excel academically and achieve their goals.",
-    "isActive": false
+    "isActive": false,
+    "contact": {
+      "email": "contact@brightmindstutoring.org",
+      "phone": "+1 (789) 012-3456",
+      "website": "www.brightmindstutoring.org"
+    }
   },
   {
     "id": 8,
@@ -77,7 +112,12 @@
     "lng": -95.3698,
     "category": "Food",
     "description": "A local kitchen offering free, freshly prepared meals to homeless individuals and struggling families every day.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "contact@communitykitchen.org",
+      "phone": "+1 (890) 123-4567",
+      "website": "www.communitykitchen.org"
+    }
   },
   {
     "id": 9,
@@ -87,7 +127,12 @@
     "lng": -80.1918,
     "category": "HealthCare",
     "description": "Providing essential healthcare services, including diagnostics, treatment plans, and access to affordable medications.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "info@careandcureclinic.org",
+      "phone": "+1 (901) 234-5678",
+      "website": "www.careandcureclinic.org"
+    }
   },
   {
     "id": 10,
@@ -97,7 +142,12 @@
     "lng": -122.3321,
     "category": "Education",
     "description": "An education center offering workshops on essential life skills, from financial literacy to vocational training programs.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "info@skillsforlife.org",
+      "phone": "+1 (012) 345-6789",
+      "website": "www.skillsforlife.org"
+    }
   },
   {
     "id": 11,
@@ -107,7 +157,12 @@
     "lng": -96.7970,
     "category": "Food",
     "description": "Distributing fresh produce, canned goods, and other essentials to support families during tough times.",
-    "isActive": false
+    "isActive": false,
+    "contact": {
+      "email": "contact@harvestfoodpantry.org",
+      "phone": "+1 (234) 567-8901",
+      "website": "www.harvestfoodpantry.org"
+    }
   },
   {
     "id": 12,
@@ -117,7 +172,12 @@
     "lng": -112.0740,
     "category": "HealthCare",
     "description": "A wellness hub offering fitness classes, nutrition counseling, and holistic health workshops for community members.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "info@wellnesscenter.org",
+      "phone": "+1 (345) 678-9012",
+      "website": "www.wellnesscenter.org"
+    }
   },
   {
     "id": 13,
@@ -127,7 +187,12 @@
     "lng": -75.1652,
     "category": "Education",
     "description": "A community library and resource hub offering free books, learning materials, and educational workshops.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "info@knowledgetree.org",
+      "phone": "+1 (456) 789-0123",
+      "website": "www.knowledgetree.org"
+    }
   },
   {
     "id": 14,
@@ -137,7 +202,12 @@
     "lng": -79.9959,
     "category": "Food",
     "description": "Serving healthy meals and providing cooking lessons to help families create nutritious meals at home.",
-    "isActive": false
+    "isActive": false,
+    "contact": {
+      "email": "contact@communitysupportkitchen.org",
+      "phone": "+1 (567) 890-1234",
+      "website": "www.communitysupportkitchen.org"
+    }
   },
   {
     "id": 15,
@@ -147,7 +217,12 @@
     "lng": -90.0715,
     "category": "HealthCare",
     "description": "Organizing free medical camps and providing consultations to address the healthcare needs of underserved communities.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "contact@healingtouchmedical.org",
+      "phone": "+1 (678) 901-2345",
+      "website": "www.healingtouchmedical.org"
+    }
   },
   {
     "id": 16,
@@ -157,7 +232,12 @@
     "lng": -77.0369,
     "category": "Education",
     "description": "Guiding individuals in finding suitable career paths with resume building, interview preparation, and job placement services.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "info@careerpathwaycenter.org",
+      "phone": "+1 (789) 012-3456",
+      "website": "www.careerpathwaycenter.org"
+    }
   },
   {
     "id": 17,
@@ -167,7 +247,12 @@
     "lng": -71.0589,
     "category": "Food",
     "description": "Providing food kits and meal support to individuals and families facing financial difficulties.",
-    "isActive": false
+    "isActive": false,
+    "contact": {
+      "email": "contact@dailybreadprogram.org",
+      "phone": "+1 (890) 123-4567",
+      "website": "www.dailybreadprogram.org"
+    }
   },
   {
     "id": 18,
@@ -177,7 +262,12 @@
     "lng": -118.2437,
     "category": "HealthCare",
     "description": "Committed to improving public health by offering preventative care, health screenings, and community outreach programs.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "contact@compassionhealthcare.org",
+      "phone": "+1 (123) 456-7890",
+      "website": "www.compassionhealthcare.org"
+    }
   },
   {
     "id": 19,
@@ -187,7 +277,12 @@
     "lng": -122.4194,
     "category": "Education",
     "description": "Empowering children through free education programs, scholarships, and mentoring opportunities.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "info@futurescholarsacademy.org",
+      "phone": "+1 (234) 567-8901",
+      "website": "www.futurescholarsacademy.org"
+    }
   },
   {
     "id": 20,
@@ -197,66 +292,11 @@
     "lng": -87.6298,
     "category": "Food",
     "description": "A dedicated kitchen delivering freshly prepared meals to seniors, low-income families, and individuals in crisis.",
-    "isActive": true
-  },
-  {
-    "id": 21,
-    "name": "Pratham Education Foundation",
-    "address": "B-21, Okhla Industrial Area, Phase II, New Delhi, India",
-    "lat": 28.5355,
-    "lng": 77.2684,
-    "category": "Education",
-    "description": "Providing quality education to underprivileged children across India.",
-    "isActive": true
-  },
-  {
-    "id": 22,
-    "name": "Akshaya Patra Foundation",
-    "address": "14, 2nd Floor, Hosur Road, Near BTM Layout, Bengaluru, Karnataka, India",
-    "lat": 12.9279,
-    "lng": 77.6271,
-    "category": "Food",
-    "description": "Serving nutritious meals to school children across India.",
-    "isActive": true
-  },
-  {
-    "id": 23,
-    "name": "Dr. Ambedkar Foundation",
-    "address": "15, Janpath Road, New Delhi, India",
-    "lat": 28.6355,
-    "lng": 77.2248,
-    "category": "Social Welfare",
-    "description": "Empowering individuals through skill development, education, and social support.",
-    "isActive": true
-  },
-  {
-    "id": 24,
-    "name": "Art of Living Foundation",
-    "address": "Bangalore, Karnataka, India",
-    "lat": 12.9260,
-    "lng": 77.6101,
-    "category": "HealthCare",
-    "description": "Teaching breathing techniques and wellness programs to improve mental and physical well-being.",
-    "isActive": true
-  },
-  {
-    "id": 25,
-    "name": "Goonj Foundation",
-    "address": "S-25, Ground Floor, School Block, Shakarpur, Delhi, India",
-    "lat": 28.6121,
-    "lng": 77.2827,
-    "category": "Food",
-    "description": "An NGO that focuses on addressing basic needs like clothing and food, while building awareness and community engagement.",
-    "isActive": true
-  },
-  {
-    "id": 26,
-    "name": "Smile Foundation",
-    "address": "SCO 19, Sector 9, Chandigarh, India",
-    "lat": 30.7333,
-    "lng": 76.7802,
-    "category": "Education",
-    "description": "Helping underprivileged children and youth with education, healthcare, and skills development.",
-    "isActive": true
+    "isActive": true,
+    "contact": {
+      "email": "contact@harvestkitchen.org",
+      "phone": "+1 (345) 678-9012",
+      "website": "www.harvestkitchen.org"
+    }
   }
 ]

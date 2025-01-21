@@ -198,5 +198,65 @@
     "category": "Food",
     "description": "A dedicated kitchen delivering freshly prepared meals to seniors, low-income families, and individuals in crisis.",
     "isActive": true
+  },
+  {
+    "id": 21,
+    "name": "Pratham Education Foundation",
+    "address": "B-21, Okhla Industrial Area, Phase II, New Delhi, India",
+    "lat": 28.5355,
+    "lng": 77.2684,
+    "category": "Education",
+    "description": "Providing quality education to underprivileged children across India.",
+    "isActive": true
+  },
+  {
+    "id": 22,
+    "name": "Akshaya Patra Foundation",
+    "address": "14, 2nd Floor, Hosur Road, Near BTM Layout, Bengaluru, Karnataka, India",
+    "lat": 12.9279,
+    "lng": 77.6271,
+    "category": "Food",
+    "description": "Serving nutritious meals to school children across India.",
+    "isActive": true
+  },
+  {
+    "id": 23,
+    "name": "Dr. Ambedkar Foundation",
+    "address": "15, Janpath Road, New Delhi, India",
+    "lat": 28.6355,
+    "lng": 77.2248,
+    "category": "Social Welfare",
+    "description": "Empowering individuals through skill development, education, and social support.",
+    "isActive": true
+  },
+  {
+    "id": 24,
+    "name": "Art of Living Foundation",
+    "address": "Bangalore, Karnataka, India",
+    "lat": 12.9260,
+    "lng": 77.6101,
+    "category": "HealthCare",
+    "description": "Teaching breathing techniques and wellness programs to improve mental and physical well-being.",
+    "isActive": true
+  },
+  {
+    "id": 25,
+    "name": "Goonj Foundation",
+    "address": "S-25, Ground Floor, School Block, Shakarpur, Delhi, India",
+    "lat": 28.6121,
+    "lng": 77.2827,
+    "category": "Food",
+    "description": "An NGO that focuses on addressing basic needs like clothing and food, while building awareness and community engagement.",
+    "isActive": true
+  },
+  {
+    "id": 26,
+    "name": "Smile Foundation",
+    "address": "SCO 19, Sector 9, Chandigarh, India",
+    "lat": 30.7333,
+    "lng": 76.7802,
+    "category": "Education",
+    "description": "Helping underprivileged children and youth with education, healthcare, and skills development.",
+    "isActive": true
   }
 ]
